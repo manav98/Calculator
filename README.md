@@ -1,1 +1,2 @@
-Calculator software made in Tkinter Library of Python
+Calculator software 
+Made in Python using Tkinter
